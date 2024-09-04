@@ -5,6 +5,6 @@ public class problem1
     {
         String favFood = "noddles";
 
-        System.out.print("I like to eat " + favFood + "as well");
+        System.out.print("I like to eat " + favFood + " as well");
     }
 }
